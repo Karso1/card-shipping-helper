@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"开卡申请寄送卡片助手","version":"1.9.0","content_scripts":[{"matches":["https://example.com/*"],"js":["helper.js"],"run_at":"document_idle"}],"web_accessible_resources":[{"resources":["up-logo.jpeg"],"matches":["https://example.com/*"]}]}
